@@ -1,0 +1,23 @@
+{
+  "name": "paulinegerard.com",
+  "version": "1.0.0",
+  "description": "My Portfolio Site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgerard0216/paulinegerard.com.git"
+  },
+  "author": "Pauline Gerard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgerard0216/paulinegerard.com/issues"
+  },
+  "homepage": "https://github.com/pgerard0216/paulinegerard.com#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
