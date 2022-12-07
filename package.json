@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/pgerard0216/paulinegerard.com#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
